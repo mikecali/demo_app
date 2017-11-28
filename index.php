@@ -1,4 +1,4 @@
-?php
+<?php
 echo "Hello World! My App deployed via Ansible Tower v3.2.1";
 echo "<br>";
 echo "<br>";
