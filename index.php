@@ -6,7 +6,7 @@ echo "The Hostname of this page is:";
 echo $_SERVER['SERVER_NAME'];
 echo "<br>";
 echo "<br>";
-echo "<a href='index.php'><img src='https://image.ibb.co/m9dRDR/Screenshot_from_2017_11_28_19_13_11.png' /></a>";
+echo "<a href='index.php'><img src='https://preview.ibb.co/gxXDp6/20170714_104831.jpg' /></a>";
 ?>
 
   
